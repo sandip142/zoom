@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49759517990",
+    "project_id": "video-clone-4d9ba",
+    "storage_bucket": "video-clone-4d9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49759517990:android:c2dc3b9e6fbe299530d5e7",
+        "android_client_info": {
+          "package_name": "com.example.zoom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYS_L3IGWkY8KfcGAKEnmBYtXT1drNdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
